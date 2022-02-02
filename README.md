@@ -1,4 +1,4 @@
-# Surprise-Mechanics  
+# Daily Checkins  
   ![License Badge](https://img.shields.io/badge/license-MIT-green)
   
   ## Description:  
